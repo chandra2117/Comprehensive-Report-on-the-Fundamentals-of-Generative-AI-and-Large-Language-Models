@@ -60,6 +60,10 @@ Step 7: Finalize and Export
 
 
 # Output
+
+## [Generative Artificial Intelligence Report](./Generative%20Artificial%20Intelligence.pdf)
+
+
 ### Explain the foundational concepts of Generative AI.
 <P>Explain the foundational concepts of Generative AI. Differentiate mathematically and conceptually between Generative and Discriminative models. Explain how probability distributions (joint vs. conditional) and high-dimensional latent space representations enable generative capabilities. Provide a real-world engineering analogy for each model type.</P>
 <P>Generate image for each questions</P>

@@ -6,10 +6,12 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
-# Algorithm: Step 1: Define Scope and Objectives
+# Algorithm: 
+Step 1: Define Scope and Objectives
 1.1 Identify the goal of the report (e.g., educational, research, tech overview)
 1.2 Set the target audience level (e.g., students, professionals)
 1.3 Draft a list of core topics to cover
+________________________________________
 Step 2: Create Report Skeleton/Structure
 2.1 Title Page
 2.2 Abstract or Executive Summary
@@ -58,6 +60,15 @@ Step 7: Finalize and Export
 
 
 # Output
+<P>Explain the foundational concepts of Generative AI. Differentiate mathematically and conceptually between Generative and Discriminative models. Explain how probability distributions (joint vs. conditional) and high-dimensional latent space representations enable generative capabilities. Provide a real-world engineering analogy for each model type.</P>
+<P>Generate image for each questions</P>
+
+<img width="1536" height="1024" alt="60715955-c8fa-44b7-a920-b00296cda46f" src="https://github.com/user-attachments/assets/d4cf1905-5ef1-4933-b339-fbc55792c73f" />
+
+<P>Provide a detailed technical breakdown of the Transformer architecture. Explain: (1) Scaled Dot-Product Self-Attention and Multi-Head Attention equations, (2) The functional role of Positional Encodings (Absolute vs. Rotary/RoPE), and (3) Structural differences between Encoder-Only (e.g., BERT), Decoder-Only (e.g., GPT), and Encoder-Decoder (e.g., T5) paradigms. Include an ASCII diagram of a standard Transformer block.</P>
+<P>generate image for each questions</P>
+
+<img width="1536" height="1024" alt="25b13006-8a59-4407-b89b-32044d085267" src="https://github.com/user-attachments/assets/ce014ac6-5554-431e-a934-bcfb5ca373c3" />
 
 
 # Result

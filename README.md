@@ -61,7 +61,7 @@ Step 7: Finalize and Export
 
 # Output
 
-## [Generative Artificial Intelligence Report](./Generative%20Artificial%20Intelligence.pdf)
+[Generative Artificial Intelligence Report](./Generative%20Artificial%20Intelligence.pdf)
 
 ```
 You are an AI researcher and technical report writer. Generate a comprehensive, well-structured, and academic report on the topic "Fundamentals of Generative AI and Large Language Models (LLMs)."
@@ -150,28 +150,31 @@ The report must include the following sections:
 Format the report professionally with numbered headings, concise paragraphs, bullet points, comparison tables, and examples wherever appropriate. The report should be suitable for submission as a college laboratory record or academic project.
 ```
 
-### Explain the foundational concepts of Generative AI.
+## Explain the foundational concepts of Generative AI.
 
 <P>Explain the foundational concepts of Generative AI. Differentiate mathematically and conceptually between Generative and Discriminative models. Explain how probability distributions (joint vs. conditional) and high-dimensional latent space representations enable generative capabilities. Provide a real-world engineering analogy for each model type.</P>
 <P>Generate image for each questions</P><BR><BR>
 
 <img width="1536" height="1024" alt="60715955-c8fa-44b7-a920-b00296cda46f" src="https://github.com/user-attachments/assets/d4cf1905-5ef1-4933-b339-fbc55792c73f" />
 <BR><BR>
-### Focusing on Generative AI architectures.
+
+## Focusing on Generative AI architectures.
 
 <P>Provide a detailed technical breakdown of the Transformer architecture. Explain: (1) Scaled Dot-Product Self-Attention and Multi-Head Attention equations, (2) The functional role of Positional Encodings (Absolute vs. Rotary/RoPE), and (3) Structural differences between Encoder-Only (e.g., BERT), Decoder-Only (e.g., GPT), and Encoder-Decoder (e.g., T5) paradigms. Include an ASCII diagram of a standard Transformer block.</P>
 <P>generate image for each questions</P><BR><BR>
 
 <img width="1536" height="1024" alt="25b13006-8a59-4407-b89b-32044d085267" src="https://github.com/user-attachments/assets/ce014ac6-5554-431e-a934-bcfb5ca373c3" />
 <BR><BR>
-### Generative AI architecture  and its applications.
+
+## Generative AI architecture  and its applications.
 
 <P>Analyze key Generative AI architectural variants across modalities: (1) Diffusion Models (DDPMs/Latent Diffusion for Vision), (2) Autoregressive Transformers (Text/Audio), and (3) Multimodal Architectures (e.g., Contrastive Language-Image Pre-training - CLIP, Vision-Language Decoders). For each, specify the core mathematical mechanism, typical tokenization/representation strategy, primary bottleneck, and dominant industry applications.</P>
 <P>generate image for each questions</P><BR><BR>
 
 <img width="1536" height="1024" alt="45f43734-5191-40d5-9d24-3f68cb9698a2" src="https://github.com/user-attachments/assets/f9248b00-b3b8-4754-a5aa-8c7d4bc54765" />
 <BR><BR>
-### Generative AI impact of scaling in LLMs.
+
+## Generative AI impact of scaling in LLMs.
 
 <P>Examine the impact of scaling in Large Language Models. Detail: (1) Empirical Scaling Laws (Kaplan et al. vs. Chinchilla/Hoffmann et al.), (2) Emergent Abilities (e.g., multi-step reasoning, in-context learning) and whether they are fundamental phase transitions or metrics-induced artifacts, and (3) Hardware/Inference bottlenecks (Memory bandwidth vs. Compute-bound tasks, KV Cache consumption, Tensor Parallelism).</P>
 <P>generate image for each questions</P><BR><BR>
@@ -179,7 +182,7 @@ Format the report professionally with numbered headings, concise paragraphs, bul
 <img width="1536" height="1024" alt="1349de61-b346-48b6-b6cd-8dcb704159f3" src="https://github.com/user-attachments/assets/89c4ac1d-a8f3-4956-b7c9-6bbfc698cdad" />
 <BR><BR>
 
-### Explain about LLM and how it is build. 
+## Explain about LLM and how it is build. 
 
 <P>Provide an end-to-end engineering roadmap for building a state-of-the-art LLM. Cover: (1) Data Collection & Preprocessing (filtering, deduplication, Byte-Pair Encoding/SentencePiece tokenization), (2) Autoregressive Pre-training objectives, (3) Supervised Fine-Tuning (SFT), and (4) Preference Alignment mechanisms (RLHF using PPO vs. Direct Preference Optimization - DPO). Contrast the loss functions and system complexities of PPO and DPO.</P>
 <P>generate image for each questions</P><BR><BR>
